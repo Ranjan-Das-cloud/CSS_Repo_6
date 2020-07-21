@@ -1,6 +1,6 @@
 # CSS_Repo_6
 
-# A_Project_on_Mega_Menu_ Creation_Demonstated_by_using_CSS_Properties - - - - - -
+# A_Project_on_Deploying_an_CSS_Animation_Demonstated_by_using_CSS_Properties - - - - - -
 
 
 .
