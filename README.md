@@ -5,7 +5,7 @@
 
 .
 .
-Content were uploaded !! 
+Content has been uploaded !! 
 .
 .
 .
